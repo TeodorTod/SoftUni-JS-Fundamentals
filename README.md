@@ -1,2 +1,2 @@
 # SoftUni-JS-Path
-Exersises, homeworks and projects from all JS courses in SoftUni
+Exersises, homeworks and projects from JS Fundamentals course in SoftUni
